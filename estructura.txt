@@ -1,0 +1,18 @@
+s16-20-m-data-bi/
+├── data/
+│   ├── raw/             # Datos sin procesar
+│   ├── processed/       # Datos procesados
+│   └── external/        # Datos externos de terceros
+├── notebooks/           # Jupyter notebooks para análisis y experimentación
+├── src/
+│   ├── data/            # Scripts para carga y procesamiento de datos
+│   ├── features/        # Scripts para generación de características
+│   ├── models/          # Scripts para entrenamiento y evaluación de modelos
+│   ├── visualization/   # Scripts para visualización de datos
+│   └── webapp/          # Aplicaciones web (Flask, Django, Dash)
+├── tests/               # Pruebas unitarias y de integración
+├── reports/
+│   └── figures/         # Figuras y gráficos para reportes
+├── environment.yml      # Dependencias de Anaconda
+├── README.md            # Documentación del proyecto
+└── .gitignore           # Archivos y carpetas a ignorar por Git

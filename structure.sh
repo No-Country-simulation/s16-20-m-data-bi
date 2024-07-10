@@ -11,6 +11,7 @@ mkdir -p reports/figures
 touch environment.yml
 touch .gitignore
 touch README.md
+touch estructura.txt
 
 # Mensaje de finalización
 echo "Estructura del proyecto creada con éxito."

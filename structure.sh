@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Crear directorios principales
-mkdir -p data/{raw,processed,external,webapp}
+mkdir -p data/{raw,processed,external}
 mkdir -p notebooks
-mkdir -p src/{data,features,models,visualization}
+mkdir -p src/{data,features,models,visualization,webapp}
 mkdir -p tests
 mkdir -p reports/figures
 

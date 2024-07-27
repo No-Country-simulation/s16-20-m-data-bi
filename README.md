@@ -15,6 +15,6 @@ Este proyecto tiene como objetivo optimizar el uso de recursos hídricos en Mend
 
 ## Tecnologías Utilizadas
 - **Lenguajes de Programación:** Python
-- **Bases de Datos:** PostgreSQL
+- **Bases de Datos:** PostgreSQl
 - **Visualización de Datos:** Power BI
 - **Herramientas de Gestión de Proyectos:** Trello, GitHub

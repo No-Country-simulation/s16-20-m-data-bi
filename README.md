@@ -46,10 +46,44 @@ Para contribuir a este proyecto, por favor sigue estos pasos:
 
 ## Contacto
 Para preguntas o más información sobre el proyecto, puedes contactar a:
-- **Arelys Acevedo** - *Data Analyst* | LinkedIn: https://www.linkedin.com/in/arelys-acevedo | GitHub: https://github.com/acad2018
-- **Ariana Maldonado** - *Data Analyst* | LinkedIn: https://www.linkedin.com/in/arelys-acevedo | GitHub: https://github.com/AriMaldo19
-- **Brayan C'carita Cruz** - *Data Analyst* | LinkedIn: https://www.linkedin.com/in/arelys-acevedo | GitHub: https://github.com/hallzyx
-- **Cecilia Aponte** - *Data Scienctist* | LinkedIn: https://www.linkedin.com/in/ceci-aponte-data | GitHub: https://github.com/CCAponte
-- **Fidel Vera Chourio** - *Data Scientist* | LinkedIn: https://www.linkedin.com/in/fverachourio | GitHub: https://github.com/fevc08
-- **Noe Machaca Chambilla** - *Data Analyst* | LinkedIn: https://www.linkedin.com/in/noe-u-machaca | GitHub: https://github.com/newneo4
-- **Raul Almao** - *Data Scientist* | LinkedIn: https://www.linkedin.com/in/ralmao | GitHub: https://github.com/Ralmao
+- **Arelys Acevedo** - *Data Analyst*
+&nbsp;
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arelys-aceved)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/acad2018)
+
+- **Ariana Maldonado** - *Data Analyst*
+&nbsp;
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/AriMaldo19)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/AriMaldo19)
+
+- **Brayan C'carita Cruz** - *Data Analyst*
+&nbsp;
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arelys-acevedo)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/hallzyx)
+
+- **Cecilia Aponte** - *Data Scienctist*
+&nbsp;
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ceci-aponte-data)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/CCAponte)
+
+- **Fidel Vera Chourio** - *Data Scientist*
+&nbsp;
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fverachourio)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/fevc08)
+
+- **Noe Machaca Chambilla** - *Data Analyst*
+&nbsp;
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/noe-u-machaca)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/newneo4)
+
+- **Raul Almao** - *Data Scientist*
+&nbsp;
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ralmao)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/Ralmao)

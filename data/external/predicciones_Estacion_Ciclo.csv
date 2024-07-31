@@ -1,181 +1,181 @@
-Fecha,Temperatura Minima,Temperatura promedio,Estacion,Ciclo Fenologico
-2024-07-03,0,17,winter,Reposo invernal
-2024-07-04,0,17,winter,Reposo invernal
-2024-07-05,1,17,winter,Reposo invernal
-2024-07-06,2,17,winter,Reposo invernal
-2024-07-07,2,17,winter,Reposo invernal
-2024-07-08,3,17,winter,Reposo invernal
-2024-07-09,3,17,winter,Reposo invernal
-2024-07-10,3,17,winter,Reposo invernal
-2024-07-11,3,17,winter,Reposo invernal
-2024-07-12,4,17,winter,Reposo invernal
-2024-07-13,4,16,winter,Reposo invernal
-2024-07-14,4,16,winter,Reposo invernal
-2024-07-15,4,16,winter,Reposo invernal
-2024-07-16,4,16,winter,Reposo invernal
-2024-07-17,4,16,winter,Reposo invernal
-2024-07-18,4,16,winter,Reposo invernal
-2024-07-19,5,16,winter,Reposo invernal
-2024-07-20,5,16,winter,Reposo invernal
-2024-07-21,5,16,winter,Reposo invernal
-2024-07-22,5,16,winter,Reposo invernal
-2024-07-23,5,16,winter,Reposo invernal
-2024-07-24,5,16,winter,Reposo invernal
-2024-07-25,5,16,winter,Reposo invernal
-2024-07-26,5,16,winter,Reposo invernal
-2024-07-27,6,16,winter,Reposo invernal
-2024-07-28,6,16,winter,Reposo invernal
-2024-07-29,6,16,winter,Reposo invernal
-2024-07-30,6,16,winter,Reposo invernal
-2024-07-31,6,16,winter,Reposo invernal
-2024-08-01,6,16,winter,Reposo invernal
-2024-08-02,6,16,winter,Reposo invernal
-2024-08-03,7,16,winter,Reposo invernal
-2024-08-04,7,16,winter,Reposo invernal
-2024-08-05,7,16,winter,Reposo invernal
-2024-08-06,7,16,winter,Reposo invernal
-2024-08-07,7,16,winter,Reposo invernal
-2024-08-08,7,16,winter,Reposo invernal
-2024-08-09,7,16,winter,Reposo invernal
-2024-08-10,8,16,winter,Reposo invernal
-2024-08-11,8,16,winter,Reposo invernal
-2024-08-12,8,16,winter,Reposo invernal
-2024-08-13,8,16,winter,Reposo invernal
-2024-08-14,8,16,winter,Reposo invernal
-2024-08-15,8,16,winter,Reposo invernal
-2024-08-16,8,16,winter,Reposo invernal
-2024-08-17,8,16,winter,Reposo invernal
-2024-08-18,8,16,winter,Reposo invernal
-2024-08-19,8,16,winter,Reposo invernal
-2024-08-20,8,16,winter,Reposo invernal
-2024-08-21,8,16,winter,Reposo invernal
-2024-08-22,8,16,winter,Reposo invernal
-2024-08-23,8,16,winter,Reposo invernal
-2024-08-24,8,16,winter,Reposo invernal
-2024-08-25,8,16,winter,Reposo invernal
-2024-08-26,8,16,winter,Reposo invernal
-2024-08-27,8,16,winter,Reposo invernal
-2024-08-28,8,16,winter,Reposo invernal
-2024-08-29,8,16,winter,Reposo invernal
-2024-08-30,8,16,winter,Reposo invernal
-2024-08-31,8,16,winter,Reposo invernal
-2024-09-01,8,16,winter,Brotacion
-2024-09-02,8,16,winter,Brotacion
-2024-09-03,8,16,winter,Brotacion
-2024-09-04,8,16,winter,Brotacion
-2024-09-05,8,16,winter,Brotacion
-2024-09-06,8,16,winter,Brotacion
-2024-09-07,8,16,winter,Brotacion
-2024-09-08,8,16,winter,Brotacion
-2024-09-09,8,16,winter,Brotacion
-2024-09-10,8,16,winter,Brotacion
-2024-09-11,8,16,winter,Brotacion
-2024-09-12,8,16,winter,Brotacion
-2024-09-13,8,16,winter,Brotacion
-2024-09-14,8,16,winter,Brotacion
-2024-09-15,8,16,winter,Brotacion
-2024-09-16,8,16,winter,Brotacion
-2024-09-17,8,16,winter,Brotacion
-2024-09-18,8,16,winter,Brotacion
-2024-09-19,8,16,winter,Brotacion
-2024-09-20,8,16,winter,Brotacion
-2024-09-21,8,16,spring,Brotacion
-2024-09-22,8,16,spring,Brotacion
-2024-09-23,8,16,spring,Brotacion
-2024-09-24,8,16,spring,Brotacion
-2024-09-25,8,16,spring,Brotacion
-2024-09-26,8,16,spring,Brotacion
-2024-09-27,8,16,spring,Brotacion
-2024-09-28,8,16,spring,Brotacion
-2024-09-29,8,16,spring,Brotacion
-2024-09-30,8,16,spring,Brotacion
-2024-10-01,8,16,spring,Floracion
-2024-10-02,8,16,spring,Floracion
-2024-10-03,8,16,spring,Floracion
-2024-10-04,8,16,spring,Floracion
-2024-10-05,8,16,spring,Floracion
-2024-10-06,8,16,spring,Floracion
-2024-10-07,8,16,spring,Floracion
-2024-10-08,8,16,spring,Floracion
-2024-10-09,8,16,spring,Floracion
-2024-10-10,8,16,spring,Floracion
-2024-10-11,8,16,spring,Floracion
-2024-10-12,8,16,spring,Floracion
-2024-10-13,8,16,spring,Floracion
-2024-10-14,8,16,spring,Floracion
-2024-10-15,8,16,spring,Floracion
-2024-10-16,8,16,spring,Floracion
-2024-10-17,8,16,spring,Floracion
-2024-10-18,8,16,spring,Floracion
-2024-10-19,8,16,spring,Floracion
-2024-10-20,8,16,spring,Floracion
-2024-10-21,8,16,spring,Floracion
-2024-10-22,8,16,spring,Floracion
-2024-10-23,8,16,spring,Floracion
-2024-10-24,8,16,spring,Floracion
-2024-10-25,8,16,spring,Floracion
-2024-10-26,8,16,spring,Floracion
-2024-10-27,8,16,spring,Floracion
-2024-10-28,8,16,spring,Floracion
-2024-10-29,8,16,spring,Floracion
-2024-10-30,8,16,spring,Floracion
-2024-10-31,8,16,spring,Floracion
-2024-11-01,8,16,spring,Floracion
-2024-11-02,8,16,spring,Floracion
-2024-11-03,8,16,spring,Floracion
-2024-11-04,8,16,spring,Floracion
-2024-11-05,8,16,spring,Floracion
-2024-11-06,8,16,spring,Floracion
-2024-11-07,8,16,spring,Floracion
-2024-11-08,8,16,spring,Floracion
-2024-11-09,8,16,spring,Floracion
-2024-11-10,8,16,spring,Floracion
-2024-11-11,8,16,spring,Floracion
-2024-11-12,8,16,spring,Floracion
-2024-11-13,8,16,spring,Floracion
-2024-11-14,8,16,spring,Floracion
-2024-11-15,8,16,spring,Floracion
-2024-11-16,8,16,spring,Floracion
-2024-11-17,8,16,spring,Floracion
-2024-11-18,8,16,spring,Floracion
-2024-11-19,8,16,spring,Floracion
-2024-11-20,8,16,spring,Floracion
-2024-11-21,8,16,spring,Floracion
-2024-11-22,8,16,spring,Floracion
-2024-11-23,8,16,spring,Floracion
-2024-11-24,8,16,spring,Floracion
-2024-11-25,8,16,spring,Floracion
-2024-11-26,8,16,spring,Floracion
-2024-11-27,8,16,spring,Floracion
-2024-11-28,8,16,spring,Floracion
-2024-11-29,8,16,spring,Floracion
-2024-11-30,8,16,spring,Floracion
-2024-12-01,8,16,spring,Cuajado
-2024-12-02,8,16,spring,Cuajado
-2024-12-03,8,16,spring,Cuajado
-2024-12-04,8,16,spring,Cuajado
-2024-12-05,8,16,spring,Cuajado
-2024-12-06,8,16,spring,Cuajado
-2024-12-07,8,16,spring,Cuajado
-2024-12-08,8,16,spring,Cuajado
-2024-12-09,8,16,spring,Cuajado
-2024-12-10,8,16,spring,Cuajado
-2024-12-11,8,16,spring,Cuajado
-2024-12-12,8,16,spring,Cuajado
-2024-12-13,8,16,spring,Cuajado
-2024-12-14,8,16,spring,Cuajado
-2024-12-15,8,16,spring,Cuajado
-2024-12-16,8,16,spring,Cuajado
-2024-12-17,8,16,spring,Cuajado
-2024-12-18,8,16,spring,Cuajado
-2024-12-19,8,16,spring,Cuajado
-2024-12-20,8,16,spring,Cuajado
-2024-12-21,8,16,summer,Cuajado
-2024-12-22,8,16,summer,Cuajado
-2024-12-23,8,16,summer,Cuajado
-2024-12-24,8,16,summer,Cuajado
-2024-12-25,8,16,summer,Cuajado
-2024-12-26,8,16,summer,Cuajado
-2024-12-27,8,16,summer,Cuajado
-2024-12-28,8,16,summer,Cuajado
-2024-12-29,8,16,summer,Cuajado
+Fecha,Estacion,Ciclo Fenologico,Temperatura Minima,Temperatura promedio,Temperatura Maxima
+2024-07-03,winter,Reposo invernal,0,17,34
+2024-07-04,winter,Reposo invernal,0,17,34
+2024-07-05,winter,Reposo invernal,1,17,33
+2024-07-06,winter,Reposo invernal,2,17,32
+2024-07-07,winter,Reposo invernal,2,17,32
+2024-07-08,winter,Reposo invernal,3,17,31
+2024-07-09,winter,Reposo invernal,3,17,31
+2024-07-10,winter,Reposo invernal,3,17,31
+2024-07-11,winter,Reposo invernal,3,17,31
+2024-07-12,winter,Reposo invernal,4,17,30
+2024-07-13,winter,Reposo invernal,4,16,28
+2024-07-14,winter,Reposo invernal,4,16,28
+2024-07-15,winter,Reposo invernal,4,16,28
+2024-07-16,winter,Reposo invernal,4,16,28
+2024-07-17,winter,Reposo invernal,4,16,28
+2024-07-18,winter,Reposo invernal,4,16,28
+2024-07-19,winter,Reposo invernal,5,16,27
+2024-07-20,winter,Reposo invernal,5,16,27
+2024-07-21,winter,Reposo invernal,5,16,27
+2024-07-22,winter,Reposo invernal,5,16,27
+2024-07-23,winter,Reposo invernal,5,16,27
+2024-07-24,winter,Reposo invernal,5,16,27
+2024-07-25,winter,Reposo invernal,5,16,27
+2024-07-26,winter,Reposo invernal,5,16,27
+2024-07-27,winter,Reposo invernal,6,16,26
+2024-07-28,winter,Reposo invernal,6,16,26
+2024-07-29,winter,Reposo invernal,6,16,26
+2024-07-30,winter,Reposo invernal,6,16,26
+2024-07-31,winter,Reposo invernal,6,16,26
+2024-08-01,winter,Reposo invernal,6,16,26
+2024-08-02,winter,Reposo invernal,6,16,26
+2024-08-03,winter,Reposo invernal,7,16,25
+2024-08-04,winter,Reposo invernal,7,16,25
+2024-08-05,winter,Reposo invernal,7,16,25
+2024-08-06,winter,Reposo invernal,7,16,25
+2024-08-07,winter,Reposo invernal,7,16,25
+2024-08-08,winter,Reposo invernal,7,16,25
+2024-08-09,winter,Reposo invernal,7,16,25
+2024-08-10,winter,Reposo invernal,8,16,24
+2024-08-11,winter,Reposo invernal,8,16,24
+2024-08-12,winter,Reposo invernal,8,16,24
+2024-08-13,winter,Reposo invernal,8,16,24
+2024-08-14,winter,Reposo invernal,8,16,24
+2024-08-15,winter,Reposo invernal,8,16,24
+2024-08-16,winter,Reposo invernal,8,16,24
+2024-08-17,winter,Reposo invernal,8,16,24
+2024-08-18,winter,Reposo invernal,8,16,24
+2024-08-19,winter,Reposo invernal,8,16,24
+2024-08-20,winter,Reposo invernal,8,16,24
+2024-08-21,winter,Reposo invernal,8,16,24
+2024-08-22,winter,Reposo invernal,8,16,24
+2024-08-23,winter,Reposo invernal,8,16,24
+2024-08-24,winter,Reposo invernal,8,16,24
+2024-08-25,winter,Reposo invernal,8,16,24
+2024-08-26,winter,Reposo invernal,8,16,24
+2024-08-27,winter,Reposo invernal,8,16,24
+2024-08-28,winter,Reposo invernal,8,16,24
+2024-08-29,winter,Reposo invernal,8,16,24
+2024-08-30,winter,Reposo invernal,8,16,24
+2024-08-31,winter,Reposo invernal,8,16,24
+2024-09-01,winter,Brotacion,8,16,24
+2024-09-02,winter,Brotacion,8,16,24
+2024-09-03,winter,Brotacion,8,16,24
+2024-09-04,winter,Brotacion,8,16,24
+2024-09-05,winter,Brotacion,8,16,24
+2024-09-06,winter,Brotacion,8,16,24
+2024-09-07,winter,Brotacion,8,16,24
+2024-09-08,winter,Brotacion,8,16,24
+2024-09-09,winter,Brotacion,8,16,24
+2024-09-10,winter,Brotacion,8,16,24
+2024-09-11,winter,Brotacion,8,16,24
+2024-09-12,winter,Brotacion,8,16,24
+2024-09-13,winter,Brotacion,8,16,24
+2024-09-14,winter,Brotacion,8,16,24
+2024-09-15,winter,Brotacion,8,16,24
+2024-09-16,winter,Brotacion,8,16,24
+2024-09-17,winter,Brotacion,8,16,24
+2024-09-18,winter,Brotacion,8,16,24
+2024-09-19,winter,Brotacion,8,16,24
+2024-09-20,winter,Brotacion,8,16,24
+2024-09-21,spring,Brotacion,8,16,24
+2024-09-22,spring,Brotacion,8,16,24
+2024-09-23,spring,Brotacion,8,16,24
+2024-09-24,spring,Brotacion,8,16,24
+2024-09-25,spring,Brotacion,8,16,24
+2024-09-26,spring,Brotacion,8,16,24
+2024-09-27,spring,Brotacion,8,16,24
+2024-09-28,spring,Brotacion,8,16,24
+2024-09-29,spring,Brotacion,8,16,24
+2024-09-30,spring,Brotacion,8,16,24
+2024-10-01,spring,Floracion,8,16,24
+2024-10-02,spring,Floracion,8,16,24
+2024-10-03,spring,Floracion,8,16,24
+2024-10-04,spring,Floracion,8,16,24
+2024-10-05,spring,Floracion,8,16,24
+2024-10-06,spring,Floracion,8,16,24
+2024-10-07,spring,Floracion,8,16,24
+2024-10-08,spring,Floracion,8,16,24
+2024-10-09,spring,Floracion,8,16,24
+2024-10-10,spring,Floracion,8,16,24
+2024-10-11,spring,Floracion,8,16,24
+2024-10-12,spring,Floracion,8,16,24
+2024-10-13,spring,Floracion,8,16,24
+2024-10-14,spring,Floracion,8,16,24
+2024-10-15,spring,Floracion,8,16,24
+2024-10-16,spring,Floracion,8,16,24
+2024-10-17,spring,Floracion,8,16,24
+2024-10-18,spring,Floracion,8,16,24
+2024-10-19,spring,Floracion,8,16,24
+2024-10-20,spring,Floracion,8,16,24
+2024-10-21,spring,Floracion,8,16,24
+2024-10-22,spring,Floracion,8,16,24
+2024-10-23,spring,Floracion,8,16,24
+2024-10-24,spring,Floracion,8,16,24
+2024-10-25,spring,Floracion,8,16,24
+2024-10-26,spring,Floracion,8,16,24
+2024-10-27,spring,Floracion,8,16,24
+2024-10-28,spring,Floracion,8,16,24
+2024-10-29,spring,Floracion,8,16,24
+2024-10-30,spring,Floracion,8,16,24
+2024-10-31,spring,Floracion,8,16,24
+2024-11-01,spring,Floracion,8,16,24
+2024-11-02,spring,Floracion,8,16,24
+2024-11-03,spring,Floracion,8,16,24
+2024-11-04,spring,Floracion,8,16,24
+2024-11-05,spring,Floracion,8,16,24
+2024-11-06,spring,Floracion,8,16,24
+2024-11-07,spring,Floracion,8,16,24
+2024-11-08,spring,Floracion,8,16,24
+2024-11-09,spring,Floracion,8,16,24
+2024-11-10,spring,Floracion,8,16,24
+2024-11-11,spring,Floracion,8,16,24
+2024-11-12,spring,Floracion,8,16,24
+2024-11-13,spring,Floracion,8,16,24
+2024-11-14,spring,Floracion,8,16,24
+2024-11-15,spring,Floracion,8,16,24
+2024-11-16,spring,Floracion,8,16,24
+2024-11-17,spring,Floracion,8,16,24
+2024-11-18,spring,Floracion,8,16,24
+2024-11-19,spring,Floracion,8,16,24
+2024-11-20,spring,Floracion,8,16,24
+2024-11-21,spring,Floracion,8,16,24
+2024-11-22,spring,Floracion,8,16,24
+2024-11-23,spring,Floracion,8,16,24
+2024-11-24,spring,Floracion,8,16,24
+2024-11-25,spring,Floracion,8,16,24
+2024-11-26,spring,Floracion,8,16,24
+2024-11-27,spring,Floracion,8,16,24
+2024-11-28,spring,Floracion,8,16,24
+2024-11-29,spring,Floracion,8,16,24
+2024-11-30,spring,Floracion,8,16,24
+2024-12-01,spring,Cuajado,8,16,24
+2024-12-02,spring,Cuajado,8,16,24
+2024-12-03,spring,Cuajado,8,16,24
+2024-12-04,spring,Cuajado,8,16,24
+2024-12-05,spring,Cuajado,8,16,24
+2024-12-06,spring,Cuajado,8,16,24
+2024-12-07,spring,Cuajado,8,16,24
+2024-12-08,spring,Cuajado,8,16,24
+2024-12-09,spring,Cuajado,8,16,24
+2024-12-10,spring,Cuajado,8,16,24
+2024-12-11,spring,Cuajado,8,16,24
+2024-12-12,spring,Cuajado,8,16,24
+2024-12-13,spring,Cuajado,8,16,24
+2024-12-14,spring,Cuajado,8,16,24
+2024-12-15,spring,Cuajado,8,16,24
+2024-12-16,spring,Cuajado,8,16,24
+2024-12-17,spring,Cuajado,8,16,24
+2024-12-18,spring,Cuajado,8,16,24
+2024-12-19,spring,Cuajado,8,16,24
+2024-12-20,spring,Cuajado,8,16,24
+2024-12-21,summer,Cuajado,8,16,24
+2024-12-22,summer,Cuajado,8,16,24
+2024-12-23,summer,Cuajado,8,16,24
+2024-12-24,summer,Cuajado,8,16,24
+2024-12-25,summer,Cuajado,8,16,24
+2024-12-26,summer,Cuajado,8,16,24
+2024-12-27,summer,Cuajado,8,16,24
+2024-12-28,summer,Cuajado,8,16,24
+2024-12-29,summer,Cuajado,8,16,24

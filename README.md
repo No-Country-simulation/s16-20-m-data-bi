@@ -94,6 +94,9 @@ Después de obtener el dataset, se realizó un pre-proceso de los datos, adicion
 
     <img src="reports/dashboard/clima.png">
 
+    #### ***Se puede interactuar con el Dashboard en el siguiente enlace:***
+    [Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiZDFkN2RjMWQtMTZlOC00MTI4LTgwMTYtNjU4MTllODYzOTZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 ### Predicciones
 Mediante la implementación de modelo de Machine Learning se obtuvo un modelos de predicción Climatica obteniendo datos de 180 días.
 

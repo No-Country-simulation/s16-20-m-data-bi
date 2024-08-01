@@ -126,7 +126,7 @@ Para preguntas o más información sobre el proyecto, puedes contactar a:
 
 - **Brayan C'carita Cruz** - *Data Analyst*
 &nbsp;
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arelys-acevedo)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natzull/)
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/hallzyx)
 
